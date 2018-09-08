@@ -17,7 +17,7 @@
     }
     ,
 		{
-        "name": "Dacing", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/dancing.png", "downloadable": true
+        "name": "Dancing", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/dancing.png", "downloadable": true
     }
     ,
 		{
@@ -93,6 +93,155 @@
     ,
 			{
         "name": "Yay", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/yay.jpg", "downloadable": true
+    }
+    ,
+			{
+        "name": "Balloons", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/balloons.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "bigbear", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/bigbear.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "cat bowtie", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cat2.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Colorful cats", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cat3.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Hiding cat", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cat4.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Looking cat", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cat5.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Black cat", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cat6.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Catfish", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/catfish.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Panda cat", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/catpanda.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Leaves cat", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cats.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Cutey fluff", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/chars.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Colors", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/colors.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Cute balls", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cutey1.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "3 Ducks", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/ducks.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Blue face", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/face.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Moustache face", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/face2.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Headless giraffe", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/giraffe1.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Anime girl", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/girl.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "heartstrung", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/heartstrung.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Little things", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/little.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Pretty mountains", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/mountains2.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Cartoon mountains", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/mountains3.png", "downloadable": true
+    }
+    ,
+	{
+        "name": "Owl", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/owl.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Polar Bear", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/polarbear.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Unicorn 1", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni1.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Unicorn 2", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/Uni2.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Unicorn 3", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni3.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 4", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni4.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 5", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni5.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 6", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni6.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 7", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni7.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 8", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni8.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 9", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni9.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 10", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni10.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 11", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni11.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Unicorn 12", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni12.jpg", "downloadable": true
+    }
+    ,
+	
+	{
+        "name": "Unicorn 13", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni13.jpg", "downloadable": true
     }
     ,
     {
