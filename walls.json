@@ -239,7 +239,6 @@
         "name": "Unicorn land", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni12.jpg", "downloadable": true
     }
     ,
-	
 	{
         "name": "Unicorn proud", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni13.jpg", "downloadable": true
     }
@@ -247,6 +246,5 @@
     {
         "name": "Taco dreams", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/taco.jpg", "downloadable": true
     }
-    
     ]
 }
