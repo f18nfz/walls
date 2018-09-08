@@ -328,6 +328,14 @@
     }
     ,
 	{
+        "name": "Staring Kitty", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/staringkitty.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "scrawnycat", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/scrawnycat.jpg", "downloadable": true
+    }
+    ,
+		{
         "name": "Yellow dog", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/yellowdog.jpg", "downloadable": true
     }
     ,
