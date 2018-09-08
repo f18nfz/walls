@@ -140,7 +140,7 @@
     }
     ,
 	{
-        "name": "Colors", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/colors.jpg", "downloadable": true
+        "name": "Gradient colors", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/colors.jpg", "downloadable": true
     }
     ,
 	{
@@ -180,7 +180,7 @@
     }
     ,
 	{
-        "name": "Cartoon mountains", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/mountains3.png", "downloadable": true
+        "name": "Cartoon mountains", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/mountains3.jpg", "downloadable": true
     }
     ,
 	{
@@ -256,7 +256,19 @@
     }
     ,
 	{
-        "name": "squirrels", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/squirrels.jpg", "downloadable": true
+        "name": "Vintage camera", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/vintagecamera.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Vintage bicycle", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/vintagebicycle.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Squirrel love", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/squirrels.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Pink flower", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/pinkflower.jpg", "downloadable": true
     }
     ,
 	{
@@ -297,6 +309,10 @@
     ,
 	{
         "name": "Donuts coffee", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/donuts2.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Rabbit rub", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/rabbit.jpg", "downloadable": true
     }
     ,
 	{
