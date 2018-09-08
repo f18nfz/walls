@@ -167,6 +167,10 @@
         "name": "Pink is cool", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/coolkitty2.jpg", "downloadable": true
     }
     ,
+			{
+        "name": "Owly night", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/owlynight.jpg", "downloadable": true
+    }
+    ,
 	{
         "name": "Blue face", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/face.jpg", "downloadable": true
     }
@@ -221,6 +225,10 @@
     ,
 	{
         "name": "Unicorn donut", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/uni2.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Anime gaze", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/anime.jpg", "downloadable": true
     }
     ,
 	{
@@ -376,11 +384,11 @@
     }
     ,
 	{
-        "name": "Pink Elephant", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/pinkele.jpg", "downloadable": true
+        "name": "Pink elephant", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/pinkele.jpg", "downloadable": true
     }
     ,
 	{
-        "name": "Staring Kitty", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/staringkitty.jpg", "downloadable": true
+        "name": "Staring kitty", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/staringkitty.jpg", "downloadable": true
     }
     ,
 		{
