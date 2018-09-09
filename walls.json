@@ -335,6 +335,10 @@
         "name": "Cheetah", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cheetah.jpg", "downloadable": true
     }
     ,
+		{
+        "name": "Smile surprise", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/smile.jpg", "downloadable": true
+    }
+    ,
 	{
         "name": "Holiday spirit", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/holiday.jpg", "downloadable": true
     }
@@ -347,12 +351,24 @@
         "name": "Pink umbrella", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/umbrella.jpg", "downloadable": true
     }
     ,
+		{
+        "name": "Stallion", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/stallion.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Piu", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/piu.jpg", "downloadable": true
+    }
+    ,
 	{
         "name": "Monkey see", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/monkey2.jpg", "downloadable": true
     }
     ,
 	{
         "name": "Donuts coffee", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/donuts2.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Sushi", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/sushi.jpg", "downloadable": true
     }
     ,
 		{
@@ -363,12 +379,32 @@
         "name": "Strawberry lover", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/lovestrawberries.jpg", "downloadable": true
     }
     ,
+		{
+        "name": "Cake stand", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/standingcake.jpg", "downloadable": true
+    }
+    ,
 	{
         "name": "Paris rose", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/parisrose.jpg", "downloadable": true
     }
     ,
 	{
+        "name": "Mallow", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/mallow.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Thinking bear", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/thinkingbear.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Kyoot", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/kyoot.jpg", "downloadable": true
+    }
+    ,
+	{
         "name": "Hanging", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/hanging.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Kawaii power", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/kawaiipower.jpg", "downloadable": true
     }
     ,
 	{
@@ -380,7 +416,15 @@
     }
     ,
 	{
+        "name": "Japan lover", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/japan.jpg", "downloadable": true
+    }
+    ,
+	{
         "name": "Pink donuts", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/donuts3.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Eyes cream", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/icecream.jpg", "downloadable": true
     }
     ,
 	{
@@ -391,8 +435,20 @@
         "name": "Staring kitty", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/staringkitty.jpg", "downloadable": true
     }
     ,
+			{
+        "name": "Cloud hug", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/cloudhug.jpg", "downloadable": true
+    }
+    ,
 		{
         "name": "Yellow dog", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/yellowdog.jpg", "downloadable": true
+    }
+    ,
+			{
+        "name": "Cat balloon", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/catballoon.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Butter together", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/buttertogether.jpg", "downloadable": true
     }
     ,
     {
