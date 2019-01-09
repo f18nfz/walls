@@ -1,48 +1,25 @@
 {
     "Wallpapers":[ 
-		{
-        "name": "Xmas Elf", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_bigelf.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Cat popup", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_catpopup.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Giraffe", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_giraffe.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Kitty", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_kitty.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas MerryXMas", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_merryxmas.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Minimalist", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_minimalistyellow.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Push", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_pusheen.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Push Hat", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_pusheenhat.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Reindeer", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_reindeer.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Reindeer 2", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_reindeer2.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Santa Family", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_santafamily.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas Sleep", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_sleep.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas SnowPush", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_snowpusheen.jpg", "downloadable": true
-    }
-    ,	{
-        "name": "Xmas ThreeCats", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_threecats.jpg", "downloadable": true
+			{
+        "name": "Dog leaves", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/dogleaves.jpg", "downloadable": true
     }
     ,
+			{
+        "name": "Twisted Unicorn", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/upsidedownunicorn.jpg", "downloadable": true
+    }
+    ,
+			{
+        "name": "Friends", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/friends.jpg", "downloadable": true
+    }
+    ,
+			{
+        "name": "Molang Alarm", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/molangalarm.jpg", "downloadable": true
+    }
+    ,
+		{
+        "name": "Flowersy", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/flowersy.jpg", "downloadable": true
+    }
+    ,	
 	{
         "name": "Cats Lookin", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/catslookin.jpg", "downloadable": true
     }
@@ -560,6 +537,46 @@
     ,
 	{
         "name": "Pink sunset", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/pinksunset.jpg", "downloadable": true
+    }
+    ,
+	{
+        "name": "Xmas Cat popup", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_catpopup.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Giraffe", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_giraffe.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Kitty", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_kitty.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas MerryXMas", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_merryxmas.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Minimalist", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_minimalistyellow.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Push", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_pusheen.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Push Hat", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_pusheenhat.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Reindeer", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_reindeer.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Reindeer 2", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_reindeer2.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Santa Family", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_santafamily.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas Sleep", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_sleep.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas SnowPush", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_snowpusheen.jpg", "downloadable": true
+    }
+    ,	{
+        "name": "Xmas ThreeCats", "url": "https://raw.githubusercontent.com/f18nfz/walls/master/xmas_threecats.jpg", "downloadable": true
     }
     ,
 	{
